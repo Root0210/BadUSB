@@ -44,7 +44,7 @@ $hwnd = (Get-Process -PID $pid).MainWindowHandle
     }
 }
 
-$imageUrl = "https://i.ibb.co/ZGrt8qb/b-min.png"
+$imageUrl = "https://ibb.co/GWg3kNV"
 $client = New-Object System.Net.WebClient
 $imageBytes = $client.DownloadData($imageUrl)
 $ms = New-Object IO.MemoryStream($imageBytes, 0, $imageBytes.Length)
