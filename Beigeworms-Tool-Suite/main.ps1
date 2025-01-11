@@ -13,7 +13,7 @@ INFO
 Closing this script will NOT close any scripts that were started from this script.
 Any background/hidden scripts eg. C2 clients will keep running.
 
-raw shortlink - https://is.gd/bwtoolset
+raw shortlink - https://shorturl.at/5XBQy
 
 #>
 Add-Type -AssemblyName System.Windows.Forms
