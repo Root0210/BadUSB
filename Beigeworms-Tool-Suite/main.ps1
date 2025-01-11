@@ -21,7 +21,7 @@ Add-Type -AssemblyName System.Drawing
 Add-Type -AssemblyName Microsoft.VisualBasic
 [System.Windows.Forms.Application]::EnableVisualStyles()
 
-if ($dc.Length -eq 0){$dc = "https://discord.com/api/webhooks/..."} # Change this to open GUI with your details
+if ($dc.Length -eq 0){$dc = "https://discord.com/api/webhooks/1327570888190857286/E4_8z1TIWt2eU1CuAPUCUUa0Qh_Oe3WrsjOHHKE88aL0u324rEugZTdq5SLXBEj0AMXA"} # Change this to open GUI with your details
 if ($tk.Length -eq 0){$tk = "MTE2MzEX4MP1ETOKEN1Ng.GKTKb_.rTP4s3tZLkIw89fuj4w890fhj9iiH"} # Change this to open GUI with your details
 if ($ch.Length -eq 0){$ch = "1207060610454516934"} # Change this to open GUI with your details
 if ($tg.Length -eq 0){$tg = "Ex4mP137eLeGr4m_4pI-B0t_T0k3N"} # Change this to open GUI with your details
